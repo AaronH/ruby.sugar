@@ -13,7 +13,7 @@ doing so can be found on their respective homes.
 
 Clone this project somewhere, with the following:
     
-    git clone git://github.com/elliottcable/ruby.sugar.git ./Ruby.sugar
+    git clone git://github.com/AaronH/ruby.sugar.git ./Ruby.sugar
     
 And then link it to your syntaxes directory:
     
